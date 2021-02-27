@@ -1,5 +1,5 @@
-# WhatsApp Clone
-Complete User Interface of WhatsApp in Flutter.
+# GoolgeClass room Clone
+Complete User Interface of GoogleClass in Flutter.
 <br/>
 ### Languages & tools :
 [<img align="left" alt="Android studio" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/androidstudio.png">][android]
